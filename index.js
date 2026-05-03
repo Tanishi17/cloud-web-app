@@ -5,7 +5,7 @@ app.use(express.json());
 
 // Home route
 app.get("/", (req, res) => {
-  res.send("🚀 Cloud Web App Backend is Running");
+  res.send("🔥 Updated from GitHub!");
 });
 
 // API test route
